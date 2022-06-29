@@ -1,0 +1,20 @@
+﻿  Character.cpp
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(19,21): warning C4018: '<': signed/unsigned 不相符
+  Dungeon.cpp
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(19,21): warning C4018: '<': signed/unsigned 不相符
+  Item.cpp
+  Item_extend.cpp
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(19,21): warning C4018: '<': signed/unsigned 不相符
+  NewDungeon.cpp
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(19,21): warning C4018: '<': signed/unsigned 不相符
+  Room.cpp
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(19,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Room.cpp(32,22): warning C4018: '<': signed/unsigned 不相符
+  loader.cpp
+  正在產生程式碼...
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(48): warning C4172: 傳回區域變數或暫存的位址: p
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(51): warning C4172: 傳回區域變數或暫存的位址
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Character.cpp(295): warning C4715: 'MonsterList::findMonsterById': 不是所有控制路徑都傳回值
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(48): warning C4172: 傳回區域變數或暫存的位址: p
+C:\Users\user\source\repos\NewDungeon\NewDungeon\Backpack.h(51): warning C4172: 傳回區域變數或暫存的位址
+  NewDungeon.vcxproj -> C:\Users\user\source\repos\NewDungeon\Debug\NewDungeon.exe

@@ -1,0 +1,5 @@
+4
+armour a_really_steady_armour Eq 1 100 50 BODY
+potion good_potion_from_a_seemingly_wicked_witch Po 999
+sword good_sword Eq 90 0 10 RIGHT_HAND
+key a_small_key Sp

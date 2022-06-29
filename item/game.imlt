@@ -1,0 +1,16 @@
+15
+beginner_helmet a_small_helmet_for_beginner Eq 0 0 2 HEAD
+beginner_armour tight_but_gives_a_sence_of_safty Eq 0 30 1 BODY
+beginner_sword dull_hope_to_find_a_whetstone_to_sharped_it Eq 4 0 0 RIGHT_HAND
+small_potion smells_like_a_dead_fish Po 10
+big_potion smells_even_worse Po 30
+heavy_armour thick_and_heavy Eq 0 80 2 BODY
+sharpen_sword as_sharp_as_a_new_one Eq 10 0 1 RIGHT_HAND
+whetstone_shield wait_what Eq 2 20 3 LEFT_HAND
+key key_to_boss_room Sp
+stone stone Sp
+bigger_stone bigger_stone Sp
+leaf_of_the_Archespore leaf_of_the_mysterious_plant Sp
+flower_of_the_Archspore more_like_a_bloody_mouth Sp
+core_of_the_golem a_round_spere_emitting_a_glimmer_of_light Sp
+crown looks_expensive Eq 0 20 4 HEAD

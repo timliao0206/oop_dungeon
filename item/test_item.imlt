@@ -1,0 +1,11 @@
+10
+item1 test_1 Sp
+item2 test_2 Eq 1 1 1 BODY
+item3 test_3 Po 10
+item4 test_4 Eq 0 0 10 LEFT_HAND
+item5 test_5 Sp
+item6 test_6 Sp
+item7 test_7 Po 100
+item8 test_8 Eq 10 10 0 RIGHT_HAND
+item9 test_9 Eq 10 10 10 HEAD
+item10 test_10 Sp
